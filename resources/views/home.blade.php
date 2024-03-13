@@ -12,7 +12,7 @@
 
 
 <body>
-    <h1>Treni</h1>
+    <h1 class="text-center my-5">Treni in Partenza</h1>
     <table class="table table-dark">
         <thead>
             <tr>
